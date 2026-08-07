@@ -2,9 +2,6 @@
 
 A Java-based project focused on implementing core application logic with a structured, maintainable codebase.
 
-> **Note:** This README is written to be production-ready and easy to extend.  
-> If you want, I can tailor it further once you share your package/class structure (or I can regenerate a fully code-aware version by scanning your files).
-
 ---
 
 ## Table of Contents
